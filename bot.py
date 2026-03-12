@@ -3,6 +3,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 
 BOT_TOKEN = "8773000685:AAEA1JZw3XGe6NOaN8oQR_XZRIZWzbPPXZw"
 CHANNEL_1 = "https://t.me/dexterheaven"
+CHANNEL_2 = "https://t.me/dexter2hub"
 PINTEREST_LINK = "https://pinterest.com/https://pin.it/3L80is1YM
 ADMIN_ID = 7575318765
 current_video = {"file_id": ""}
